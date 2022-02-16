@@ -23,7 +23,7 @@ function solution(A) {
   return result
 }
 
-console.log(solution([1,1,3,4,4,4]), " tulos 3")
-console.log(solution([1,2,2,2,4,5,5,5,8]), " tulos 4")
-console.log(solution([1,1,1,1,3,3,4,4,4,4,4]), " tulos 5")
-console.log(solution([10,10,10]), " tulos 3")
+console.log(solution([1,1,3,4,4,4]), " tulos pitäisi olla 3")
+console.log(solution([1,2,2,2,5,5,5,8]), " tulos pitäisi olla 4")
+console.log(solution([1,1,1,1,3,3,4,4,4,4,4]), " tulos pitäisi olla 5")
+console.log(solution([10,10,10]), " tulos pitäisi olla 3")
